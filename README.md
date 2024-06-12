@@ -1,7 +1,9 @@
-![logo](https://raw.githubusercontent.com/hassanraza005/Muhammad-Hassan-Raza/main/github%20banner%20png/Screenshot_20240612-012834_1.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+![logo](https://raw.githubusercontent.com/hassanraza005/Muhammad-Hassan-Raza/main/github%20banner%20png/Screenshot_20240612-012834_1.png)
+
 
 <img align="right" alt="codinggif" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPD0wY7e0Tc0dju4FbKfbiL_vpstgnC97behnpPxarTNRRrChdd9PDzvR6T65iK_9H3BA&usqp=CAU">
 
