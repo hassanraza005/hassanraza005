@@ -1,4 +1,4 @@
-![logo](https://github.com/hassanraza005/Muhammad-Hassan-Raza/blob/main/github%20banner%20png/Screenshot_20240612-012834_1.png?raw=true)
+![logo](https://raw.githubusercontent.com/hassanraza005/Muhammad-Hassan-Raza/main/github%20banner%20png/Screenshot_20240612-012834_1.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
